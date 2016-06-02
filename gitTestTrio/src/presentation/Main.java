@@ -7,7 +7,9 @@ import metier.Sufix;
 public class Main {
 	
 	public static void main(String[] args) {
-		
+		/*
+		 * Ajout d'un commentaire
+		 */
 		String phrase = "test";
 		
 		String phraseSufix = Sufix.transform(phrase);
